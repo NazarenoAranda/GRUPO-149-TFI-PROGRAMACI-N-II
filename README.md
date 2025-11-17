@@ -129,8 +129,7 @@ Probar actualizar y eliminar para comprobar transacciones.
 
 🎥 Enlace al video de demostración
 
-📌 (Aquí pegás tu link cuando lo tengas)
-👉 Video de presentación
+📌 https://www.youtube.com/watch?v=yzyqz9GTSxA
 
 📚 Tecnologías y herramientas utilizadas
 
